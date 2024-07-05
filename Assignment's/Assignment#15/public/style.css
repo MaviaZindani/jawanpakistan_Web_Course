@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.colu{
+   background-color: #4e4e5092;
+}
+
+.colu1{
+   background-color: #F5F5F7;
+}
+
+.section1bg{
+    padding-bottom: 550px;
+    padding-top: 100px;
+   border: 1px solid black;
+   background-image: url(../assests/section1bg.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-clip: border-box;
+}
+
+.section2bg{
+    padding-bottom: 350px;
+    padding-top: 50px;
+    border: 1px solid black;
+    background-image: url(../assests/section2bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: border-box;
+ }
+ 
+ .section3bg{
+    padding-top: 350px;
+    padding-bottom: 50px;
+    border: 1px solid black;
+    background-image: url(../assests/section2.2bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: border-box;
+ }
+
+ .section4bg{
+    padding-top: 50px;
+    padding-bottom: 350px;
+    border: 1px solid black;
+    background-image: url(../assests/section4bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: border-box;
+ }
+
+ .section5bg{
+    padding-top: 50px;
+    padding-bottom: 350px;
+    border: 1px solid black;
+    background-image: url(../assests/section5bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: border-box;
+ }
+
+ .section6bg{
+    padding-top: 50px;
+    padding-bottom: 350px;
+    border: 1px solid black;
+    background-image: url(../assests/section6bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: border-box;
+ }
+
+ .section7bg{
+    padding-top: 50px;
+    padding-bottom: 350px;
+    border: 1px solid black;
+    background-image: url(../assests/section7bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: border-box;
+ }
+
+ .section8bg{
+    padding-top: 50px;
+    padding-bottom: 350px;
+    border: 1px solid black;
+    background-image: url(../assests/section8bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: border-box;
+ }
+
+ .section9bg{
+    padding-top: 50px;
+    padding-bottom: 350px;
+    border: 1px solid black;
+    background-image: url(../assests/section9bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: border-box;
+ }
